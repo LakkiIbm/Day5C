@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Day5C.testGen</StartupObject>
+    <StartupObject>mainClass</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,8 @@
     <Compile Include="Encapsulation.cs" />
     <Compile Include="Generics.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Specifiers.cs" />
+    <Compile Include="Structures.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
